@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+  <category>
+    <pattern>Assalamualaikum</pattern>
+    <template>Waalaikumussalam warohmatullahi wabarokatuh</template>
+  </category>
+  
+  <category>
+      <pattern> Rukun islam ada berapa?</pattern>
+      <template> Rukun islam terdiri atas 5 perkara</template>
+  </category>
+  
+  <category>
+      <pattern> Rukun iman ada berapa?</pattern>
+      <template> Rukun iman terdiri atas 6 perkara</template>
+  </category>
+  
+  <category>
+      <pattern> ada berapa jumlah rakaat sholat dalam sehari?</pattern>
+      <template> Jumlah rakaat rakaat dalam sehari ada 17 rakaat </template>
+  </category>
+  
+  <category>
+      <pattern> apa surah dalam alquran yang pertama kali diturunkan</pattern>
+      <template> Surah Al-Alaq</template>
+  </category>
+  
+  <category>
+      <pattern> Dimana diturunkan wahyu pertama kali?</pattern>
+      <template> Di gua hira </template>
+  </category>
+  
+  <category>
+      <pattern> Ada berapa jumlah nabi dan rasul yang wajib di imani?</pattern>
+      <template> 25 nabi dan rasul</template>
+  </category>
+<category>
+	<pattern>ADA BERAPA JUMLAH RAKAAT SHOLAT DALAM SEHARI?</pattern>
+	<template>Jumlah rakaat sholat fardhu dalam sehari ada 17 rakaat</template>
+</category>
+
+</aiml>
